@@ -1,7 +1,7 @@
-package com.xnumall.cloud.springbatch.batch;
+package com.xnumall.batch;
 
 
-import com.xnumall.cloud.springbatch.entity.Person;
+import com.xnumall.entity.Person;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.batch.core.BatchStatus;

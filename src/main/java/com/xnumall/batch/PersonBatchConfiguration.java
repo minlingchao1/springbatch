@@ -1,7 +1,7 @@
-package com.xnumall.cloud.springbatch.batch;
+package com.xnumall.batch;
 
 
-import com.xnumall.cloud.springbatch.entity.Person;
+import com.xnumall.entity.Person;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.Job;
 import org.springframework.batch.core.JobExecutionListener;

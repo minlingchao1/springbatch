@@ -1,4 +1,4 @@
-package com.xnumall.cloud.springbatch.service;
+package com.xnumall.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.batch.core.Job;

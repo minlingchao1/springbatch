@@ -1,4 +1,4 @@
-package com.xnumall.cloud.springbatch.task;
+package com.xnumall.task;
 
 import com.dangdang.ddframe.job.event.JobEventConfiguration;
 import com.dangdang.ddframe.job.event.rdb.JobEventRdbConfiguration;

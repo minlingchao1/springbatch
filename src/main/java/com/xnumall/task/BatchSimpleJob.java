@@ -1,8 +1,8 @@
-package com.xnumall.cloud.springbatch.task;
+package com.xnumall.task;
 
 import com.dangdang.ddframe.job.api.ShardingContext;
 import com.dangdang.ddframe.job.api.simple.SimpleJob;
-import com.xnumall.cloud.springbatch.service.PersonServiceImpl;
+import com.xnumall.service.PersonServiceImpl;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

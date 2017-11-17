@@ -1,4 +1,4 @@
-package com.xnumall.cloud.springbatch.entity;
+package com.xnumall.entity;
 
 import javax.persistence.*;
 

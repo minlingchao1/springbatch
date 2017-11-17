@@ -1,4 +1,4 @@
-package com.xnumall.cloud.springbatch.task;
+package com.xnumall.task;
 
 import com.dangdang.ddframe.job.config.JobCoreConfiguration;
 import com.dangdang.ddframe.job.config.simple.SimpleJobConfiguration;

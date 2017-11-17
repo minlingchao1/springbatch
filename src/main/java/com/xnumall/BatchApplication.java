@@ -1,4 +1,4 @@
-package com.xnumall.cloud.springbatch;
+package com.xnumall;
 
 /**
  * Created by Gimgoog on 2017/6/30.
