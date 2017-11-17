@@ -1,0 +1,19 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://139.196.58.18:3306/banbuv3_dev?autoReconnect=true&useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true
+    username: yuncai_v3
+    password: yuncaiv3=!QAZ@WSX
+  batch:
+    job:
+      enabled: false
+    initializer:
+      enabled: false
+
+banbu:
+  elasticJob:
+    zookeeper:
+      serverList: 139.196.58.18:2181
+      namespace: elasticJob-batch
+    employee:
+      cron: 0/30 * * * * ?
